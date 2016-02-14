@@ -1,0 +1,31 @@
+INSERT INTO Contributor values(1, 'Contributor1');
+INSERT INTO Contributor values(2, 'Rothschild');
+INSERT INTO Contributor values(3, 'Contributor3');
+INSERT INTO Contributor values(4, 'Contributor4');
+INSERT INTO Contributor values(5, 'Contributor5');
+
+INSERT INTO Organization values(10, 'organization1', 1910);
+INSERT INTO Organization values(20, 'organization2', 1920);
+INSERT INTO Organization values(30, 'organization3', 1930);
+INSERT INTO Organization values(40, 'organization4', 1940);
+
+INSERT INTO Donated values(1, 10, 1000);
+INSERT INTO Donated values(1, 20, 2000);
+INSERT INTO Donated values(1, 30, 2000);
+INSERT INTO Donated values(1, 40, 2000);
+
+INSERT INTO Donated values(2, 10, 3000);
+INSERT INTO Donated values(2, 30, 3000);
+INSERT INTO Donated values(2, 40, 3000);
+
+INSERT INTO Donated values(3, 20, 2000);
+INSERT INTO Donated values(3, 30, 2000);
+INSERT INTO Donated values(3, 40, 2000);
+
+INSERT INTO Donated values(4, 10, 2000);
+INSERT INTO Donated values(4, 40, 2000);
+INSERT INTO Donated values(4, 30, 2000);
+
+INSERT INTO Donated values(5, 10, 2000);
+INSERT INTO Donated values(5, 40, 2000);
+

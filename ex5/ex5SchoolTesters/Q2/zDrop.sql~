@@ -1,0 +1,3 @@
+DROP TABLE Donated;
+DROP TABLE Contributor CASCADE;
+DROP TABLE Organization CASCADE;

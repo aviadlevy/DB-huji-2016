@@ -1,0 +1,17 @@
+CREATE TABLE Contributor(
+	cid   INTEGER PRIMARY KEY,
+	cname VARCHAR
+);
+
+CREATE TABLE Organization(
+	aid     INTEGER PRIMARY KEY,
+	oname   VARCHAR,
+	estYear INTEGER	
+);
+
+CREATE TABLE Donated(
+	cid INTEGER REFERENCES Contributor  ON DELETE CASCADE,
+	aid INTEGER REFERENCES Organization ON DELETE CASCADE,
+	donation INTEGER,
+	PRIMARY KEY(cid, aid)
+);

@@ -1,0 +1,191 @@
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2a1.sql
+psql -hdbcourse public <querya.sql>& testQ2a1.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2a2.sql
+psql -hdbcourse public <querya.sql>& testQ2a2.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2a3.sql
+psql -hdbcourse public <querya.sql>& testQ2a3.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2a4.sql
+psql -hdbcourse public <querya.sql>& testQ2a4.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2a5.sql
+psql -hdbcourse public <querya.sql>& testQ2a5.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2b1.sql
+psql -hdbcourse public <queryb.sql>& testQ2b1.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2b2.sql
+psql -hdbcourse public <queryb.sql>& testQ2b2.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2b3.sql
+psql -hdbcourse public <queryb.sql>& testQ2b3.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2b4.sql
+psql -hdbcourse public <queryb.sql>& testQ2b4.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2b5.sql
+psql -hdbcourse public <queryb.sql>& testQ2b5.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2c1.sql
+psql -hdbcourse public <queryc.sql>& testQ2c1.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2c2.sql
+psql -hdbcourse public <queryc.sql>& testQ2c2.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2c3.sql
+psql -hdbcourse public <queryc.sql>& testQ2c2.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2c4.sql
+psql -hdbcourse public <queryc.sql>& testQ2c2.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2c5.sql
+psql -hdbcourse public <queryc.sql>& testQ2c2.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2d1.sql
+psql -hdbcourse public <queryd.sql>& testQ2d1.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2d2.sql
+psql -hdbcourse public <queryd.sql>& testQ2d2.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2d3.sql
+psql -hdbcourse public <queryd.sql>& testQ2d3.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2d4.sql
+psql -hdbcourse public <queryd.sql>& testQ2d4.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2d5.sql
+psql -hdbcourse public <queryd.sql>& testQ2d5.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2d6.sql
+psql -hdbcourse public <queryd.sql>& testQ2d6.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2e1.sql
+psql -hdbcourse public <querye.sql>& testQ2e1.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2e2.sql
+psql -hdbcourse public <querye.sql>& testQ2e2.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2e3.sql
+psql -hdbcourse public <querye.sql>& testQ2e3.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2e4.sql
+psql -hdbcourse public <querye.sql>& testQ2e4.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2e5.sql
+psql -hdbcourse public <querye.sql>& testQ2e5.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2f1.sql
+psql -hdbcourse public <queryf.sql>& testQ2f1.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2f2.sql
+psql -hdbcourse public <queryf.sql>& testQ2f2.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2f3.sql
+psql -hdbcourse public <queryf.sql>& testQ2f3.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2f4.sql
+psql -hdbcourse public <queryf.sql>& testQ2f4.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2f5.sql
+psql -hdbcourse public <queryf.sql>& testQ2f5.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2f6.sql
+psql -hdbcourse public <queryf.sql>& testQ2f6.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2g1.sql
+psql -hdbcourse public <queryg.sql>& testQ2g1.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2g2.sql
+psql -hdbcourse public <queryg.sql>& testQ2g2.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2g3.sql
+psql -hdbcourse public <queryg.sql>& testQ2g3.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2g4.sql
+psql -hdbcourse public <queryg.sql>& testQ2g4.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2g5.sql
+psql -hdbcourse public <queryg.sql>& testQ2g5.sql.out
+psql -hdbcourse public <zDrop.sql
+
+psql -hdbcourse public <zCreate.sql
+psql -hdbcourse public <testQ2g6.sql
+psql -hdbcourse public <queryg.sql>& testQ2g6.sql.out
+psql -hdbcourse public <zDrop.sql

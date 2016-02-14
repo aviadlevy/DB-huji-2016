@@ -1,0 +1,25 @@
+instructions for running the ex6 tests:
+1. put your ex6.zip file in the submissions folder.
+2. open the ex6tests.java file and update the path of the directory you are running from, and the current date.
+3. run the following from shell:
+	javac ex6tests.java
+	java -cp /usr/share/java/postgresql.jar:. ex6tests
+
+
+about the files:
+ex6tests.java - unzip the submitted file, and execute all the tests.
+JDBC.java - the JDBC tests. the ex6tests program compiles and execute it.
+
+submissions directory:
+YOUR_EX6_FILE.zip - your submitted zip file 
+df.sql - drops all functions and triggers.
+DropTables.sql - drops all the tables.
+createEx6Tables.sql - create tables.
+
+helper files:
+t2h.sql - the correct state of the DB before executing test2.
+t3h.sql - the correct state of the DB before executing test3.
+t4h.sql - the correct state of the DB before executing test4.
+tAh.sql - the correct state of the DB before executing trigger A test.
+jh.sql - the correct state of the DB before executing the JDBC test.
+

@@ -1,0 +1,9 @@
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+INSERT 0 1
+ area 
+------
+   95
+(1 row)
+

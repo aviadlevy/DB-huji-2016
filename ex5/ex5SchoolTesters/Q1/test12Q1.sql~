@@ -1,0 +1,3 @@
+\i create.sql
+INSERT INTO Room values(1, 1, 30);
+SELECT price FROM Room;

@@ -1,0 +1,65 @@
+psql -hdbcourse public < test0Q1.sql >& test0Q1.sql.out
+psql -hdbcourse public < zDrop.sql
+
+psql -hdbcourse public < test10Q1.sql >& test10Q1.sql.out
+psql -hdbcourse public < zDrop.sql
+
+psql -hdbcourse public < test11Q1.sql >& test11Q1.sql.out
+psql -hdbcourse public < zDrop.sql
+
+psql -hdbcourse public < test12Q1.sql >& test12Q1.sql.out
+psql -hdbcourse public < zDrop.sql
+
+psql -hdbcourse public < test13Q1.sql >& test13Q1.sql.out
+psql -hdbcourse public < zDrop.sql
+
+psql -hdbcourse public < test14Q1.sql >& test14Q1.sql.out
+psql -hdbcourse public < zDrop.sql
+
+psql -hdbcourse public < test15Q1.sql >& test15Q1.sql.out
+psql -hdbcourse public < zDrop.sql
+
+psql -hdbcourse public < test16Q1.sql >& test16Q1.sql.out
+psql -hdbcourse public < zDrop.sql
+
+psql -hdbcourse public < test17Q1.sql >& test17Q1.sql.out
+psql -hdbcourse public < zDrop.sql
+
+psql -hdbcourse public < test18Q1.sql >& test18Q1.sql.out
+psql -hdbcourse public < zDrop.sql
+
+psql -hdbcourse public < test19Q1.sql >& test19Q1.sql.out
+psql -hdbcourse public < zDrop.sql
+
+psql -hdbcourse public < test1Q1.sql >& test1Q1.sql.out
+psql -hdbcourse public < zDrop.sql
+
+psql -hdbcourse public < test20Q1.sql >& test20Q1.sql.out
+psql -hdbcourse public < zDrop.sql
+
+psql -hdbcourse public < test21Q1.sql >& test21Q1.sql.out
+psql -hdbcourse public < zDrop.sql
+
+psql -hdbcourse public < test2Q1.sql >& test2Q1.sql.out
+psql -hdbcourse public < zDrop.sql
+
+psql -hdbcourse public < test3Q1.sql >& test3Q1.sql.out
+psql -hdbcourse public < zDrop.sql
+
+psql -hdbcourse public < test4Q1.sql >& test4Q1.sql.out
+psql -hdbcourse public < zDrop.sql
+
+psql -hdbcourse public < test5Q1.sql >& test5Q1.sql.out
+psql -hdbcourse public < zDrop.sql
+
+psql -hdbcourse public < test6Q1.sql >& test6Q1.sql.out
+psql -hdbcourse public < zDrop.sql
+
+psql -hdbcourse public < test7Q1.sql >& test7Q1.sql.out
+psql -hdbcourse public < zDrop.sql
+
+psql -hdbcourse public < test8Q1.sql >& test8Q1.sql.out
+psql -hdbcourse public < zDrop.sql
+
+psql -hdbcourse public < test9Q1.sql >& test9Q1.sql.out
+psql -hdbcourse public < zDrop.sql

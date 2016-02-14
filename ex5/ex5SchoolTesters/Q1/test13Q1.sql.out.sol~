@@ -1,0 +1,7 @@
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+INSERT 2249257 1
+INSERT 2249258 1
+ERROR:  new row for relation "room" violates check constraint "room_check"
+DETAIL:  Failing row contains (2, 3, 90, 170).

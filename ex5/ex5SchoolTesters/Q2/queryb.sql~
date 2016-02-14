@@ -1,0 +1,4 @@
+SELECT DISTINCT C.cname
+FROM Contributor C, Donated D1, Organization O1, Donated D2, Organization O2
+WHERE C.cid = D1.cid AND C.cid = D2.cid AND O1.aid = D1.oid AND O2.aid = D2.aid AND O1.oname = 'Latet' AND O2.oname = 'Elem' 
+ORDER BY C.cname;
